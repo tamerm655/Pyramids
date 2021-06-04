@@ -1,2 +1,2 @@
 # Pyramids
-Read Pyramids data by java
+Read Pyramids data from csv file by java
